@@ -1,4 +1,4 @@
 # Hello-world
 Just another responsitroy
-Hei man!
+Hey! Man!
 I like code，but I have to study more.
